@@ -1,16 +1,15 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <h1>Hi, iam AmbaLabu as Dhimas Wira Pratama<h1>
-    </head>
-    <body>
-        <h1>Aku sigma</h1>
-        <h2>Aku sigma</h2>
-        <h3>Aku sigma</h3>
-        <h4>Aku sigma</h4>
-        <h5>Aku sigma</h5>
-        <h6>Aku sigma</h6>
-        <p>Halo nama saya Dhimas Ganteng, saya berasal dari sekolah SMAN 3 Bengkulu. hobi saya yaitu membuat coding</p>
-        <p>kalau kalian ingin kenalan sama saya kamu dapat follow Instagram ku dengan nama @mas_simas_</p>
-    </body>
-</html>
+public class kano {
+    public static void main(String[] args) {
+    
+        String Nama = ("Kano Marzuq Permata");
+        int Tinggi = (150);
+        double berat = (50.5);
+        int IQ = (76);
+
+        System.out.println("Nama = " + Nama);
+        System.out.println("Tinggi = " + Tinggi + " cm");
+        System.out.println("berat = " + berat + " kg");
+        System.out.println("Kepintaran IQ Kano = " + IQ);
+        System.out.println("Kano anak Bigal buyan, belum berak, belum ngising, belum sholat, belum makan");
+    }
+}
